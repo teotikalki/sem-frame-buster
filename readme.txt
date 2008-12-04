@@ -1,5 +1,5 @@
 === Frame Buster ===
-Contributors: Denis-de-Bernardy, Semiologic
+Contributors: Denis-de-Bernardy, Mike_Koepke
 Donate link: http://buy.semiologic.com/drink
 Tags: frames, frame-buster
 Requires at least: 2.0
