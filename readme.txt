@@ -4,7 +4,6 @@ Donate link: http://buy.semiologic.com/drink
 Tags: frames, frame-buster
 Requires at least: 2.0
 Tested up to: 2.6.5
-Stable tag: 4.0
 
 The frame buster plugin for WordPress will thwart any attempt to load your site in a frame.
 
