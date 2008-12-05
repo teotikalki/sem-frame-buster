@@ -4,6 +4,8 @@ Donate link: http://buy.semiologic.com/drink
 Tags: frames, frame-buster
 Requires at least: 2.0
 Tested up to: 2.6.5
+Stable tag: trunk
+
 
 The frame buster plugin for WordPress will thwart any attempt to load your site in a frame.
 
@@ -32,6 +34,6 @@ Make sure your theme has the following in between its `<head>` and `</head>` tag
 
 = Help Me! =
 
-Feel very free to report issues in the [Semiologic forums](http://forum.semiologic.com).
+The [Semiologic forum](http://forum.semiologic.com) is the best place to report issues. Please note, however, that while community members and I do our best to answer all queries, we're assisting you on a voluntary basis.
 
-Please note, however, that we generally stick to assisting [Semiologic Pro](http://www.getsemiologic.com) users.
+If you require more dedicated assistance, consider using [Semiologic Pro](http://www.getsemiologic.com).
