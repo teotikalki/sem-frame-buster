@@ -3,7 +3,7 @@ Contributors: Denis-de-Bernardy, Semiologic
 Donate link: http://buy.semiologic.com/drink
 Tags: frames, frame-buster
 Requires at least: 2.0
-Tested up to: 2.6.5
+Tested up to: 2.7
 Stable tag: trunk
 
 
@@ -27,9 +27,9 @@ If you've ever seen your site trapped within a frame surrounded by ads, you cert
 
 = It Does Not Work At All =
 
-Make sure your theme has the following in between its `<head>` and `</head>` tags:
+Make sure your theme has the following in between its `<body>` and `</body>` tags:
 
-    <?php wp_head(); ?>
+    <?php wp_footer(); ?>
 
 
 = Help Me! =
