@@ -1,9 +1,9 @@
 === Frame Buster ===
 Contributors: Denis-de-Bernardy
-Donate link: http://buy.semiologic.com/drink
+Donate link: http://www.semiologic.com/partners/
 Tags: frames, frame-buster, semiologic
 Requires at least: 2.0
-Tested up to: 2.8
+Tested up to: 2.8.4
 Stable tag: trunk
 
 
@@ -15,6 +15,12 @@ The frame buster plugin for WordPress will thwart any attempt to load your site 
 The frame buster plugin for WordPress will thwart any attempt to load your site in a frame.
 
 If you've ever seen your site trapped within a frame surrounded by ads, you certainly know why such a plugin can be useful.
+
+= Help Me! =
+
+The [Semiologic forum](http://forum.semiologic.com) is the best place to report issues. Please note, however, that while community members and I do our best to answer all queries, we're assisting you on a voluntary basis.
+
+If you require more dedicated assistance, consider using [Semiologic Pro](http://www.getsemiologic.com).
 
 
 == Installation ==
@@ -32,8 +38,12 @@ Make sure your theme has the following in between its `<body>` and `</body>` tag
     <?php wp_footer(); ?>
 
 
-= Help Me! =
+== Change Log ==
 
-The [Semiologic forum](http://forum.semiologic.com) is the best place to report issues. Please note, however, that while community members and I do our best to answer all queries, we're assisting you on a voluntary basis.
+= 5.0 =
 
-If you require more dedicated assistance, consider using [Semiologic Pro](http://www.getsemiologic.com).
+- Localization
+
+= 4.1 =
+
+- Code enhancements and optimizations

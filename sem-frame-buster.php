@@ -2,8 +2,8 @@
 /*
 Plugin Name: Frame Buster
 Plugin URI: http://www.semiologic.com/software/frame-buster/
-Description: Prevents your blog from being loaded into a frame.
-Version: 4.1
+Description: Thwarts any attempt to load your site in a frame.
+Version: 5.0
 Author: Denis de Bernardy
 Author URI: http://www.getsemiologic.com
 Text Domain: sem-frame-buster
@@ -25,8 +25,6 @@ http://www.opensource.org/licenses/gpl-2.0.php
  *
  * @return void
  **/
-
-add_action('wp_footer', 'kill_frame');
 
 function kill_frame() {
 	if ( is_preview() )
@@ -56,4 +54,6 @@ try {
 
 EOS;
 } # kill_frame()
+
+add_action('wp_footer', 'kill_frame');
 ?>
