@@ -46,6 +46,10 @@ Make sure your theme has the following in between its `<body>` and `</body>` tag
 
 == Change Log ==
 
+= 5.0.2 =
+
+- Fixing svn tag issue with 5.0.1
+
 = 5.0 =
 
 - Localization
