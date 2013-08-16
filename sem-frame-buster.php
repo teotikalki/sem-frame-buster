@@ -3,7 +3,7 @@
 Plugin Name: Frame Buster
 Plugin URI: http://www.semiologic.com/software/frame-buster/
 Description: Thwarts any attempt to load your site in a frame.
-Version: 5.0.2
+Version: 5.0.3
 Author: Denis de Bernardy, Mike Koepke
 Author URI: http://www.getsemiologic.com
 Text Domain: sem-frame-buster
