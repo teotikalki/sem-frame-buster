@@ -1,9 +1,9 @@
 === Frame Buster ===
 Contributors: Denis-de-Bernardy, Mike_Koepke
 Donate link: http://www.semiologic.com/partners/
-Tags: frames, frame-buster, semiologic
+Tags: frames, frame-buster, semiologic, iframe
 Requires at least: 2.0
-Tested up to: 3.6
+Tested up to: 3.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -45,6 +45,11 @@ Make sure your theme has the following in between its `<body>` and `</body>` tag
 
 
 == Change Log ==
+
+= 5.1 =
+
+- Refactored source code to object oriented implementation
+- WP 3.8 compat
 
 = 5.0.2 =
 
