@@ -3,7 +3,7 @@ Contributors: Denis-de-Bernardy, Mike_Koepke
 Donate link: http://www.semiologic.com/partners/
 Tags: frames, frame-buster, semiologic, iframe
 Requires at least: 2.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -45,6 +45,10 @@ Make sure your theme has the following in between its `<body>` and `</body>` tag
 
 
 == Change Log ==
+
+= 5.3 =
+
+- WP 4.0 compat
 
 = 5.2 =
 
